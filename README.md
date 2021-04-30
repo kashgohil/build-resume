@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Build Resume | Beautiful template to build your resume and cover letters
+
+Everybody wants a resume that will attract the recruiter's eyes, don't we? 
+
+Making a resume is not a problem in this internet driven world, the problem is making a resume that would draw attention. For that, you need to have a beautiful resume. Recruiters recieve hundreds of resume. To make your resume shine out from the pile, you need to have a well-built resume. That's where we come in. We provide you best templates that would certainly catch recruiters eyes (From then on, it depends on the content you provide, 😅).
+
+## Features we provide
+
+You can make beatifully built resume as well as cover letters. You can choose from many templates at your disposal to make your resume. Also, if you don't like any of the templates or if you want a specific template and you have design ready, you can send them over and after going through a review, we will provide a similar template (if it makes through the review). Moreover, you will get the reference for the design, too.
+
+## Developed by Kashyap Gohil
+
+==============================================================================================================================================
+
+# Getting Started with App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -38,9 +52,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
