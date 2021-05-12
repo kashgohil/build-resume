@@ -10,8 +10,6 @@ You can make beatifully built resume as well as cover letters. You can choose fr
 
 ## Developed by Kashyap Gohil
 
-==============================================================================================================================================
-
 # Getting Started with App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
