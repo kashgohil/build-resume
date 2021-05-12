@@ -1,6 +1,6 @@
-# Build Resume | Beautiful template to build your resume and cover letters
+# Buddy | Your collage companion
 
-Everybody wants a resume that will attract the recruiter's eyes, don't we? 
+Everybody wants a resume that will attract the recruiter's eyes, don't we?
 
 Making a resume is not a problem in this internet driven world, the problem is making a resume that would draw attention. For that, you need to have a beautiful resume. Recruiters recieve hundreds of resume. To make your resume shine out from the pile, you need to have a well-built resume. That's where we come in. We provide you best templates that would certainly catch recruiters eyes (From then on, it depends on the content you provide, 😅).
 
