@@ -4,7 +4,6 @@ import './homepage.scss';
 const HomePage = () => {
     return (
         <>
-            {'This is the homepage'}
         </>
     )
 }
