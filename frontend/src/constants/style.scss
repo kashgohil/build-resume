@@ -1,6 +1,67 @@
-// Colors
+//colors
 $bl: black;
 $wh: white;
+$ruby-red: #a31621ff;
+$beau-blue: #bfdbf7ff;
+$indigo-dye: #053c5eff;
+$metallic-seaweed: #1f7a8cff;
+$amaranth-red: #db222aff;
+$opal: #c2d3cdff;
+$ash-gray: #afbfc0ff;
+$quick-silver: #9fa4a9ff;
+$taupe-gray: #847e89ff;
+$dark-liver: #56494cff;
 $bs-bl-1: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 $bs-bl-2: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;;
 $bs-bl-3: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+//font family
+@font-face {
+    font-family: 'ubuntu-bold', Arial, Helvetica, sans-serif;
+    src: url('../fonts/Ubuntu-Bold.ttf');
+}
+@font-face {
+    font-family: 'ubuntu-regular', Arial, Helvetica, sans-serif;
+    src: url('../fonts/Ubuntu-Regular.ttf');
+}
+@font-face {
+    font-family: 'ubuntu-medium', Arial, Helvetica, sans-serif;
+    src: url('../fonts/Ubuntu-Medium.ttf');
+}
+@font-face {
+    font-family: 'ubuntu-light', Arial, Helvetica, sans-serif;
+    src: url('../fonts/Ubuntu-Light.ttf');
+}
+$ubuntu-b: 'ubuntu-bold';
+$ubuntu-r: 'ubuntu-regular';
+$ubuntu-m: 'ubuntu-medium';
+$ubuntu-l: 'ubuntu-light';
+
+//lists
+$displays: (block,inline-block,flex);
+$positions: (static,absolute,fixed,sticky);
+$list: (1,2,3,4,5,6,7,8,9,10,15,20,25,30,35,40,45,50);
+
+//iterators
+@each $i in $list {
+    .m-#{$i} {margin: #{$i}px;}
+    .mt-#{$i} {margin-top: #{$i}px;}
+    .mb-#{$i} {margin-bottom: #{$i}px;}
+    .ml-#{$i} {margin-left: #{$i}px;}
+    .mr-#{$i} {margin-right: #{$i}px;}
+    .mx-#{$i} {margin: inherit #{$i}px;}
+    .my-#{$i} {margin: #{$i}px inherit;}
+    .p-#{$i} {padding: #{$i}px;}
+    .pt-#{$i} {padding-top: #{$i}px;}
+    .pb-#{$i} {padding-bottom: #{$i}px;}
+    .pl-#{$i} {padding-left: #{$i}px;}
+    .pr-#{$i} {padding-right: #{$i}px;}
+    .px-#{$i} {padding: inherit #{$i}px;}
+    .py-#{$i} {padding: #{$i}px inherit;}
+}
+@each $display in $displays {
+    .display-#{$display}{display: $display;}
+}
+@each $position in $positions{
+    .position-#{$position}{position: $position;}
+}

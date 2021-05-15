@@ -1,13 +1,8 @@
 # Buddy | Your collage companion
 
-Everybody wants a resume that will attract the recruiter's eyes, don't we?
+Collage is one of the coolest experience we have in our lives. Meeting new people, learning different things and trying to figure out the life as we prepare to go into the real world. It is one of the most exciting times we have in our lives.
 
-Making a resume is not a problem in this internet driven world, the problem is making a resume that would draw attention. For that, you need to have a beautiful resume. Recruiters recieve hundreds of resume. To make your resume shine out from the pile, you need to have a well-built resume. That's where we come in. We provide you best templates that would certainly catch recruiters eyes (From then on, it depends on the content you provide, 😅).
-
-## Features we provide
-
-You can make beatifully built resume as well as cover letters. You can choose from many templates at your disposal to make your resume. Also, if you don't like any of the templates or if you want a specific template and you have design ready, you can send them over and after going through a review, we will provide a similar template (if it makes through the review). Moreover, you will get the reference for the design, too.
-
+Now, what if I tell you that there is a companion out there for you, who is already familiar with the collage, who is funny, witty, dependable and helpful. Would you like to be friends with him or her? You would, wouldn't you? That's why we bring you Buddy - your collage companion. It is there for you to remember your schedule, notify you when you have your classes, connects you with your collage groups, helps you find the course material to prepare for exams, lets you know all the cool places around your collage campus and many more. It is like you have a companion all the time that takes away all the worry of managing those small but important details so you can focus on the main thing and that is - experiencing the true collage life.
 ## Developed by Kashyap Gohil
 
 # Getting Started with App
